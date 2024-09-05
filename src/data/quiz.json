@@ -1,0 +1,329 @@
+{
+	"data": [
+		{
+			"question": "Which of the following is a fundamental data type in C?",
+			"choices": ["int", "float", "char", "All of the above"],
+			"answer": "All of the above"
+		},
+		{
+			"question": "What does the acronym 'HTML' stand for?",
+			"choices": [
+				"Hypertext Markup Language",
+				"Hyperlink Text Markup Language",
+				"High-Level Text Markup Language",
+				"Hypertext Multi Language"
+			],
+			"answer": "Hypertext Markup Language"
+		},
+		{
+			"question": "Which algorithm is commonly used for sorting data?",
+			"choices": [
+				"Bubble Sort",
+				"Quick Sort",
+				"Merge Sort",
+				"All of the above"
+			],
+			"answer": "All of the above"
+		},
+		{
+			"question": "What is the primary function of an operating system?",
+			"choices": [
+				"Manage hardware resources",
+				"Run applications",
+				"Provide a user interface",
+				"All of the above"
+			],
+			"answer": "All of the above"
+		},
+		{
+			"question": "In object-oriented programming, what does 'inheritance' allow?",
+			"choices": [
+				"Reusability of code",
+				"Encapsulation of data",
+				"Polymorphism",
+				"All of the above"
+			],
+			"answer": "Reusability of code"
+		},
+		{
+			"question": "Which of the following is a commonly used database management system?",
+			"choices": ["MySQL", "PostgreSQL", "MongoDB", "All of the above"],
+			"answer": "All of the above"
+		},
+		{
+			"question": "What is the purpose of a compiler?",
+			"choices": [
+				"Translate source code to machine code",
+				"Run source code directly",
+				"Optimize code execution",
+				"Manage hardware resources"
+			],
+			"answer": "Translate source code to machine code"
+		},
+		{
+			"question": "Which programming language is known for its use in web development?",
+			"choices": ["Python", "JavaScript", "Java", "All of the above"],
+			"answer": "JavaScript"
+		},
+		{
+			"question": "What does 'HTTP' stand for?",
+			"choices": [
+				"Hypertext Transfer Protocol",
+				"Hyperlink Transfer Protocol",
+				"Hypertext Technical Protocol",
+				"Hypertext Transaction Protocol"
+			],
+			"answer": "Hypertext Transfer Protocol"
+		},
+		{
+			"question": "Which of the following is an example of a high-level programming language?",
+			"choices": [
+				"Assembly",
+				"C",
+				"Machine Language",
+				"All of the above"
+			],
+			"answer": "C"
+		},
+		{
+			"question": "In computing, what does 'RAM' stand for?",
+			"choices": [
+				"Read Access Memory",
+				"Random Access Memory",
+				"Read And Modify Memory",
+				"Run And Manage Memory"
+			],
+			"answer": "Random Access Memory"
+		},
+		{
+			"question": "What is the function of the 'ALU' in a CPU?",
+			"choices": [
+				"Perform arithmetic and logic operations",
+				"Manage memory",
+				"Control input/output operations",
+				"Store data"
+			],
+			"answer": "Perform arithmetic and logic operations"
+		},
+		{
+			"question": "Which data structure follows the Last In First Out (LIFO) principle?",
+			"choices": ["Queue", "Stack", "Array", "List"],
+			"answer": "Stack"
+		},
+		{
+			"question": "What is the main advantage of using 'hashing' in data storage?",
+			"choices": [
+				"Efficient data retrieval",
+				"Enhanced data security",
+				"Simpler data structures",
+				"All of the above"
+			],
+			"answer": "Efficient data retrieval"
+		},
+		{
+			"question": "Which protocol is used to secure communications over a network?",
+			"choices": ["HTTP", "HTTPS", "FTP", "SMTP"],
+			"answer": "HTTPS"
+		},
+		{
+			"question": "What does 'IDE' stand for in software development?",
+			"choices": [
+				"Integrated Development Environment",
+				"Intelligent Design Environment",
+				"Interactive Development Environment",
+				"Internal Development Engine"
+			],
+			"answer": "Integrated Development Environment"
+		},
+		{
+			"question": "Which of the following is an example of a version control system?",
+			"choices": ["Git", "Subversion", "Mercurial", "All of the above"],
+			"answer": "All of the above"
+		},
+		{
+			"question": "What is the primary purpose of a 'cache' in computing?",
+			"choices": [
+				"Speed up data access",
+				"Increase storage capacity",
+				"Encrypt data",
+				"Backup data"
+			],
+			"answer": "Speed up data access"
+		},
+		{
+			"question": "Which sorting algorithm has the best average-case time complexity?",
+			"choices": [
+				"Bubble Sort",
+				"Insertion Sort",
+				"Quick Sort",
+				"Selection Sort"
+			],
+			"answer": "Quick Sort"
+		},
+		{
+			"question": "In networking, what does 'IP' stand for?",
+			"choices": [
+				"Internet Protocol",
+				"Internal Protocol",
+				"Integrated Protocol",
+				"International Protocol"
+			],
+			"answer": "Internet Protocol"
+		},
+		{
+			"question": "Which of the following is a type of database normalization?",
+			"choices": [
+				"First Normal Form",
+				"Second Normal Form",
+				"Third Normal Form",
+				"All of the above"
+			],
+			"answer": "All of the above"
+		},
+		{
+			"question": "What does 'SQL' stand for?",
+			"choices": [
+				"Structured Query Language",
+				"Sequential Query Language",
+				"Simple Query Language",
+				"Standard Query Language"
+			],
+			"answer": "Structured Query Language"
+		},
+		{
+			"question": "Which programming paradigm is based on the concept of 'objects'?",
+			"choices": [
+				"Procedural Programming",
+				"Functional Programming",
+				"Object-Oriented Programming",
+				"Declarative Programming"
+			],
+			"answer": "Object-Oriented Programming"
+		},
+		{
+			"question": "What is the main purpose of a 'router' in a network?",
+			"choices": [
+				"Direct data packets",
+				"Store data",
+				"Encrypt data",
+				"Manage user access"
+			],
+			"answer": "Direct data packets"
+		},
+		{
+			"question": "What does 'API' stand for?",
+			"choices": [
+				"Application Programming Interface",
+				"Advanced Programming Interface",
+				"Applied Programming Interface",
+				"Automated Programming Interface"
+			],
+			"answer": "Application Programming Interface"
+		},
+		{
+			"question": "Which of the following is a common unit of data measurement?",
+			"choices": ["Byte", "Kilobyte", "Megabyte", "All of the above"],
+			"answer": "All of the above"
+		},
+		{
+			"question": "What is the primary function of a 'firewall'?",
+			"choices": [
+				"Monitor and control network traffic",
+				"Store data",
+				"Perform calculations",
+				"Manage user permissions"
+			],
+			"answer": "Monitor and control network traffic"
+		},
+		{
+			"question": "What does 'CSS' stand for?",
+			"choices": [
+				"Cascading Style Sheets",
+				"Complex Style Sheets",
+				"Coded Style Sheets",
+				"Custom Style Sheets"
+			],
+			"answer": "Cascading Style Sheets"
+		},
+		{
+			"question": "Which algorithm is used for encryption in secure communications?",
+			"choices": ["AES", "RSA", "DES", "All of the above"],
+			"answer": "All of the above"
+		},
+		{
+			"question": "What does 'HTTP' stand for?",
+			"choices": [
+				"Hypertext Transfer Protocol",
+				"Hyperlink Transfer Protocol",
+				"Hypertext Technical Protocol",
+				"Hypertext Transaction Protocol"
+			],
+			"answer": "Hypertext Transfer Protocol"
+		},
+		{
+			"question": "In programming, what does 'API' stand for?",
+			"choices": [
+				"Application Programming Interface",
+				"Advanced Programming Interface",
+				"Applied Programming Interface",
+				"Automated Programming Interface"
+			],
+			"answer": "Application Programming Interface"
+		},
+		{
+			"question": "What is 'Big O' notation used for in computer science?",
+			"choices": [
+				"To describe algorithm efficiency",
+				"To measure memory usage",
+				"To evaluate network speed",
+				"To define data types"
+			],
+			"answer": "To describe algorithm efficiency"
+		},
+		{
+			"question": "Which of the following is not a programming language?",
+			"choices": ["Python", "JavaScript", "SQL", "HTML"],
+			"answer": "HTML"
+		},
+		{
+			"question": "In computer science, what does 'GUI' stand for?",
+			"choices": [
+				"Graphical User Interface",
+				"General User Interface",
+				"Graphical Unified Interface",
+				"General Unified Interface"
+			],
+			"answer": "Graphical User Interface"
+		},
+		{
+			"question": "Which data structure is used for implementing a queue?",
+			"choices": ["Stack", "Linked List", "Array", "Hash Table"],
+			"answer": "Linked List"
+		},
+		{
+			"question": "What does 'CRUD' stand for in database operations?",
+			"choices": [
+				"Create, Read, Update, Delete",
+				"Create, Retrieve, Update, Destroy",
+				"Create, Remove, Update, Delete",
+				"Create, Read, Undo, Delete"
+			],
+			"answer": "Create, Read, Update, Delete"
+		},
+		{
+			"question": "What is 'NoSQL' primarily used for?",
+			"choices": [
+				"Non-relational databases",
+				"Structured query languages",
+				"Traditional relational databases",
+				"Data encryption"
+			],
+			"answer": "Non-relational databases"
+		},
+		{
+			"question": "Which of the following is a widely used version control system?",
+			"choices": ["Git", "FTP", "SMTP", "HTTP"],
+			"answer": "Git"
+		}
+	]
+}
